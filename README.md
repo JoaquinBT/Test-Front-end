@@ -1,3 +1,16 @@
+# Instrucciones 
+Para ejecutar localmente ejecutamos lo siguiente en la interfaz de linea de comandos:
+
+1. Para instalar dependencias
+### `npm install`
+
+2. Para inicializar la aplicación
+### `npm start`
+
+## Importante
+Para su funcionamiento se requiere que se levante localmente la [API Rest](https://github.com/JoaquinBT/Test-Back-end).
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
