@@ -2,10 +2,13 @@
 Para ejecutar localmente ejecutamos lo siguiente en la interfaz de linea de comandos:
 
 1. Para instalar dependencias
-### `npm install`
-
-2. Para ejecutar la aplicación
-### `npm start`
+```
+npm install
+```
+3. Para ejecutar la aplicación
+```
+npm start
+```
 
 ## Importante
 Para su funcionamiento se requiere que se levante localmente la [API Rest](https://github.com/JoaquinBT/Test-Back-end).
