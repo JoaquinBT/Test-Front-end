@@ -4,7 +4,7 @@ Para ejecutar localmente ejecutamos lo siguiente en la interfaz de linea de coma
 1. Para instalar dependencias
 ### `npm install`
 
-2. Para inicializar la aplicación
+2. Para ejecutar la aplicación
 ### `npm start`
 
 ## Importante
